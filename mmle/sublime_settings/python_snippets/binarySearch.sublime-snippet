@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+class binary_search:
+    def __init__(self, array):
+        self.array = array
+        self.lower = lambda array_mid, item: array_mid >= item
+        self.upper = lambda array_mid, item: array_mid > item
+
+    def find(self, item):
+        lower, upper = 0, len(self.array)
+
+        while lower < upper:
+            mid = (lower + upper) // 2
+            if self.array[mid] == item: return mid
+            if self.array[mid] > item: upper = mid
+            else: lower = mid + 1
+
+    def bound_search(self, item, compare):
+        lower, upper = 0, len(self.array)
+
+        while lower < upper:
+            mid = (lower + upper) // 2
+            if compare(self.array[mid], item): upper = mid
+            else: lower = mid + 1
+        return lower
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>binary_search</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

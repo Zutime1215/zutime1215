@@ -1,0 +1,30 @@
+1.  auto it = find(array, end(array), item) - return the pointer of item from array.
+	index = it - array / it - begin(array)
+
+
+2.  bool present = binary_search(array, end(array), item) - return False/True. array must be sorted.
+	auto it = lower_bound(array, end(array), item) - return pointer of an item which is greater than or 					equal item.
+	auto it = upper_bound(array, end(array), item) - return pointer of an item which is greater than item.
+
+
+3.  string.empty()  -  returns False/True. String empty or not.
+	string1.append(string2) - same as string1 + string2
+	string.length() - lentght of the string
+	string.clear()  - clear all the content of the string 
+	string1.compare(string2)  -  return 0 if string1=string2. else greater than or less than zero depend 					on the lexographical order.
+	string.find("string")  -  return index of "string"
+	string.erase(index, n) -  remove from index to n. n in an integer.
+
+
+4.  for (int i=0;i<n;i++) {string[i]} 
+    for (auto it = string.begin(); it != string.end() ;it++) {*it}
+    for (auto i:string) {i}
+
+
+5.  getline(cin, string)  -  string with white char input.
+	cin.get()  -  To consume xtra enter after \n
+
+
+6.  sort(array, end(array), compare)  -  sort from begin to end. "array" and "end(array)" are start and 					ending pointer. compare is a function which define how sort function work with two 						item. its a boolean type.
+
+

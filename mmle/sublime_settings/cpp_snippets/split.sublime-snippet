@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+vec_s spliter(string s, char ss) {
+	string xx = ""; vec_s parts;
+	regular_for(i, sz(s)) {
+	  	if (s[i] == ss) {vpushE(xx, parts);xx="";}
+	  	if (s[i]!= ss) xx += s[i];
+	  	if (i==sz(s)-1) vpushE(xx, parts);
+	}
+	return parts;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>split</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

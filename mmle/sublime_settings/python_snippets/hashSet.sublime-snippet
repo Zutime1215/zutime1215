@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+class HashSet:
+	def __init__(self, size=10):
+		self.size = size
+		self.buckets = [ [] for _ in range(size) ]
+	
+	def hash_maker(self, item):
+		return sum(ord(char) for char in item) % self.size
+
+	def add(self, item):
+		bucket = self.buckets[self.hash_maker(item)]
+		bucket.append(item)
+
+	def remove(self, item):
+		bucket = self.buckets[self.hash_maker(item)]
+		if item in bucket:
+			bucket.remove(item)
+
+	def isContains(self, item):
+		bucket = self.buckets[self.hash_maker(item)]
+		return item in bucket
+
+	def print_set(self):
+		print(self.buckets)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>HashSet</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

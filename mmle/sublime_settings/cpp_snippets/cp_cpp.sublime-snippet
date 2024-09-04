@@ -1,0 +1,51 @@
+<snippet>
+	<content><![CDATA[
+typedef long long            ll;
+typedef long long int        lli;
+
+#define no cout<<"NO"<<endl
+#define yes cout<<"YES"<<endl
+
+#define MAX(arr)  *max_element(arr)
+#define MIN(arr)  *min_element(arr)
+
+#define vec_s  vector<string>
+#define vec_i  vector<int>
+#define vec_ll vector<ll>      
+#define vec_ld vector<ld> 
+
+#define vpushE(x, v)      v.push_back(x)
+#define vpushB(x, v)      v.insert(v.begin(), x)
+#define vremoveE(v)       v.pop_back()
+#define vremoveB(v)       v.erase(v.begin())
+#define vreverse(v)       reverse(v.begin(), v.end())
+#define vsort(v)          sort(v.begin(),v.end())
+
+#define set_i  set<int>
+#define uset_i  unordered_set<int>
+
+#define spush(x, s)       s.insert(x)
+#define sremove(x)        s.erase(x)   
+
+#define vsprint(i, v, ws)    for (auto i:v) {cout<<i<<ws;}
+#define vsrvprint(i, v, ws)  for (auto i=v.rbegin();i!=v.rend();i++){cout<<*i<<ws;}
+#define sz(v)                v.size()
+
+#define regular_for(i, a)    for(int i=0; i<(a); i++)
+#define array_in(i, a, arr)  for (int i=0;i<a;i++) {cin >> arr[i];}
+#define array_out(i, a, arr) for (int i=0;i<a;i++) {cout<<arr[i]<<" ";}
+#define testcase(t)          int t;cin>>t;while(t--)
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+
+
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cp_cpp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+class HashMap:
+	def __init__(self, size=10):
+		self.size = size
+		self.buckets = [ [{}] for _ in range(size) ]
+
+	def hash_maker(self, key):
+		return sum(ord(char) for char in key) % self.size
+
+	def add(self, item):
+		key = list(item.keys())[0]
+		value = list(item.values())[0]
+		bucket = self.buckets[self.hash_maker(key)]
+		bucket[0][key] = value
+
+	def remove(self, key):
+		bucket = self.buckets[self.hash_maker(key)]
+		bucket[0].pop(key)
+
+	def isContains(self, key):
+		bucket = self.buckets[self.hash_maker(key)]
+		return key in bucket[0]
+
+	def printAll(self):
+		print(self.buckets)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>HashMap</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
