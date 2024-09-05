@@ -28,3 +28,47 @@
 6.  sort(array, end(array), compare)  -  sort from begin to end. "array" and "end(array)" are start and 					ending pointer. compare is a function which define how sort function work with two 						item. its a boolean type.
 
 
+7.  vector<int> b(5, 10) - name of the vector is "b". 5 integer in 'b' and their value 10.
+	vector<int> c(b.begin(), b.end()) - copy 'b' vector items to c.
+	vector.push_back(n) - push 'n' to the end of the vector
+	vector.size() - number of item in vector
+	vector.capacity() - size of the vector
+	vector.max_size() - max size the vector can be.
+	vector.pop_back() - remove the last 
+	vector.insert(it, item) - insert 'item' to the position iterator it)
+	vector.erase(it1, it2) - remove items from iterator_it1 to it2
+	vector.resize(n) - increase or decrease the capacity of vector
+	vector.clear() - remove all the items from vector
+	vector.empty() - return True/False. empty or not
+	vector.front() - 1st item of the vector
+	vector.back() - last item of the vector
+
+
+8.  list<int> l - Doubly Linked List
+	list.push_front(n), list.push_back(n), list.pop_front(), list.pop_back()
+	list.sort() - For sorting.
+	list.reverse() - For Reverse
+	list.remove(item) - remove all the 'item' item from list
+	list.insert(it, item) - insert "item" in a specific iterate it.
+	list.front(), list.back()
+	list.begin(), list.end()
+
+
+9. 	stack<int> l - Stack container
+	stack.push(item), stack.pop()
+	stack.top() - return top element
+	stack.empty() - Empty or not. False/True
+
+
+10. queue<int> l;
+	queue.push(item), queue.pop()
+	queue.front(), queue.back()
+	queue.empty()
+
+
+11. priority_queue<int> l; - made with heap. Max priority queue.
+	priority_queue<int, vector<int>, greater<int>> - min priority_queue
+
+	priority_queue.push(item), priority_queue.pop()
+	priority_queue.top(), priority_queue.expty()
+	
