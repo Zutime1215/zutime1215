@@ -55,6 +55,7 @@ function mmle() {
   cd /home/$(whoami)/Public/BackToTheGithub
   mkdir $(date +%Y-%m-%d_%H:%M:%S)
   cp -rf Zutime1215/.git ./$(date +%Y-%m-%d_%H)*
+  cp -rf Zutime1215/README.md ./$(date +%Y-%m-%d_%H)*
   cd $(date +%Y-%m-%d_%H)*
 
   mkdir sublime_settings
@@ -76,5 +77,5 @@ function mmle() {
 }
 
 function test() {
-  mkdir $(date +%Y-%m-%d_%H:%M:%S)
+  echo Test Complete
 }
