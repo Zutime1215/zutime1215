@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+void big_fact(int number) {
+    int arr[1000];
+    for (int i = 0; i < 1000; i++) arr[i] = 0;
+
+    arr[0] = 1;
+    int num_of_dig = 1;
+    for (int i = 2; i <= number; i++) {
+        int carry = 0;
+        for (int j = 0; j < num_of_dig; j++) {
+            int product = (arr[j] * i) + carry;
+            arr[j] = product % 10;
+            carry =  product / 10;
+        }
+
+        while (carry) {
+            arr[num_of_dig] = carry % 10;
+            carry = carry / 10;
+            num_of_dig++;
+        }
+    }
+
+    for (int i = num_of_dig - 1; i >= 0; i--) cout << arr[i] << "";
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>big factorial</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

@@ -9,6 +9,10 @@
 		{
 			"name": "Run",
 			"shell_cmd": " g++ \"${file}\" && \"${file_path}/a.out\" < \"${file_path}/file.in\" > \"${file_path}/file.out\" "
+		},
+		{
+			"name": "OutPut To acm_practice/",
+			"shell_cmd": " g++ \"${file}\" && \"${file_path}/a.out\" < \"/home/sirens/acm_practice/file.in\" > \"/home/sirens/acm_practice/file.out\" "
 		}
 	]
 }

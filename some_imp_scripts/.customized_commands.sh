@@ -60,6 +60,7 @@ function mmle() {
 
   mkdir sublime_settings
   cp -rf /home/$(whoami)/.config/sublime-text/Packages/User/git* ./sublime_settings/
+  cp -rf /home/$(whoami)/.config/sublime-text/Packages/User/*.py ./sublime_settings/
   cp -rf /home/$(whoami)/.config/sublime-text/Packages/User/Package\ Control.sublime-settings ./sublime_settings/
   cp -rf /home/$(whoami)/Documents/some_imp_codes ./
   mkdir some_imp_scripts
