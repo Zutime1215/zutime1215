@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+vector<int> primeFactors(int n) {
+	vector<int> f;
+	for (int x = 2; x * x <= n; x++) {
+		while (n % x == 0) {
+			f.push_back(x);
+			n /= x;
+		}
+	}
+	if (n > 1) f.push_back(n);
+	return f;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>primeFactors</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

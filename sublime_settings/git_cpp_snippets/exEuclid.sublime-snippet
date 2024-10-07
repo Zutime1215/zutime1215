@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+tuple<int, int, int> exEuclid(int a, int b) {
+	if (b == 0) {
+		return {1, 0, a};
+
+	} else {
+		int x, y, g;
+		tie(x, y, g) = exEuclid(b, a % b);
+		return {y, x - (a / b)*y, g};
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>Extended Euclid</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>
