@@ -67,7 +67,7 @@
 [<img src="https://img.icons8.com/color/48/000000/facebook-circled--v3.png"/>](https://www.facebook.com/zahid.lmn/)
 [<img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/zahidlmn)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/sirens_salaman/)
-[<img src="https://img.icons8.com/color/48/000000/whatsapp--v4.png"/>](https://wa.me/1818270970)
+[<img src="https://img.icons8.com/color/48/000000/whatsapp--v4.png"/>](https://wa.me/1327379576)
 [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>](https://stackoverflow.com/users/17680229/zahid-hossen)
 [<img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>](mailto:zahid.lmn51@gmail.com)
 [<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>](https://github.com/Zutime1215)
@@ -89,14 +89,16 @@
 
 ### Online Judge Profile:
 
-[![Badge](https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/CodeCell)  [![Badge](https://cp-logo.vercel.app/atcoder/Devjewel?logo=true)](https://atcoder.jp/users/DevJewel)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/DevvJewel)  
+[![Badge](https://raw.githubusercontent.com/zutime1215/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sirens)  [![Badge](https://cp-logo.vercel.app/atcoder/sirens?logo=true)](https://atcoder.jp/users/sirens)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/Sirens.6308)  
 
-[![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/DevJewel)
-[![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)  [![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/devjewel-cou)  [![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)
+[![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/sirens_salaman)
+<!--[![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)-->  
+[![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/sirens)  
+<!--[![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)--> 
+[![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/sirens)  
+<!--[![Badge](https://img.shields.io/badge/Spoj--red)](https://www.spoj.com/myaccount/)  [![Badge](https://img.shields.io/badge/UVa--blue)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       [![Badge](https://img.shields.io/badge/Timus--blueviolet)](https://acm.timus.ru/problemset.aspx)  [![Badge](https://img.shields.io/badge/Top-Coder-critical)](https://arena.topcoder.com/index.html#/u/dashboard) 
 
-[![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/devjewel143)  [![Badge](https://img.shields.io/badge/Spoj--red)](https://www.spoj.com/myaccount/)  [![Badge](https://img.shields.io/badge/UVa--blue)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       [![Badge](https://img.shields.io/badge/Timus--blueviolet)](https://acm.timus.ru/problemset.aspx)  [![Badge](https://img.shields.io/badge/Top-Coder-critical)](https://arena.topcoder.com/index.html#/u/dashboard) 
-
-[![Badge](https://img.shields.io/badge/Project-Eular-9cf)](https://projecteuler.net/progress)  [![Badge](https://img.shields.io/badge/Gonit-Zoggo-informational)](https://gonitzoggo.com/profile/view/devjewelcouict10) 
+[![Badge](https://img.shields.io/badge/Project-Eular-9cf)](https://projecteuler.net/progress)  [![Badge](https://img.shields.io/badge/Gonit-Zoggo-informational)](https://gonitzoggo.com/profile/view/devjewelcouict10) --> 
 
 ---
 
@@ -109,16 +111,16 @@
 
 <b>⚡ Github Stats</b>
 
-<a href="https://devjewel01.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=devjewel01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjewel01&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="#"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=zutime1215&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zutime1215&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devjewel01&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zutime1215&theme=tokyonight" />
 
 
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <!-- <img height="273em" src="https://leetcard.jacoblin.cool/DevJewel?theme=wtf&font=Karma&ext=contest" />  -->
-<img height="280em" src="https://raw.githubusercontent.com/devjewel01/cf-stats/main/output/light_card.svg" />
+<img height="280em" src="https://raw.githubusercontent.com/zutime1215/cf-stats/main/output/light_card.svg" />
 </p>
 
 
@@ -150,4 +152,4 @@
 
 <hr>
 
-<p>  If you want to say more than just Thanks <a href="https://www.buymeacoffee.com/jewelnath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
+<p>  If you want to say more than just Thanks <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> </p>
