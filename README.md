@@ -89,13 +89,14 @@
 
 ### Online Judge Profile:
 
-[![Badge](https://raw.githubusercontent.com/zutime1215/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sirens)  [![Badge](https://cp-logo.vercel.app/atcoder/sirens?logo=true)](https://atcoder.jp/users/sirens)  [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/Sirens.6308)  
+[![Badge](https://raw.githubusercontent.com/zutime1215/cf-stats/main/output/max_rating.svg)](https://codeforces.com/profile/sirens) [![Badge](https://img.shields.io/badge/Toph--brightgreen)](https://toph.co/u/Sirens.6308) [![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/sirens_salaman)
+[![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/sirens) [![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/sirens) 
 
-[![Badge](https://img.shields.io/badge/Hacker-Rank-yellowgreen)](https://www.hackerrank.com/sirens_salaman)
-<!--[![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)-->  
-[![Badge](https://img.shields.io/badge/Light-OJ-ff69b4)](https://lightoj.com/user/sirens)  
+<!--[![Badge](https://cp-logo.vercel.app/atcoder/sirens?logo=true)](https://atcoder.jp/users/sirens)  
+[![Badge](https://img.shields.io/badge/Hacker-Earth-green)](https://www.hackerearth.com/@DevJewel)-->  
+ 
 <!--[![Badge](https://img.shields.io/badge/Binary-Search-orange)](https://binarysearch.com/@/DevJewel)--> 
-[![Badge](https://img.shields.io/badge/Code-Chef-blue)](https://www.codechef.com/users/sirens)  
+ 
 <!--[![Badge](https://img.shields.io/badge/Spoj--red)](https://www.spoj.com/myaccount/)  [![Badge](https://img.shields.io/badge/UVa--blue)](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3)       [![Badge](https://img.shields.io/badge/Timus--blueviolet)](https://acm.timus.ru/problemset.aspx)  [![Badge](https://img.shields.io/badge/Top-Coder-critical)](https://arena.topcoder.com/index.html#/u/dashboard) 
 
 [![Badge](https://img.shields.io/badge/Project-Eular-9cf)](https://projecteuler.net/progress)  [![Badge](https://img.shields.io/badge/Gonit-Zoggo-informational)](https://gonitzoggo.com/profile/view/devjewelcouict10) --> 
